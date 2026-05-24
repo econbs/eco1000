@@ -1,0 +1,56 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-header">
+  <h1><i class="bi bi-cpu-fill"></i> AI in this Course</h1>
+  <p>ECO 1000 · Principles of Economics · Fall 2026</p>
+</div>
+```
+
+## My Approach to AI Tools
+
+AI tools like ChatGPT, Claude, and others are increasingly part of how people work and learn. In this course, I want to help you develop a thoughtful, intentional relationship with these tools — one that supports your learning rather than bypassing it.
+
+---
+
+## Policy
+
+::: {.callout-important}
+**The default in this course is that all submitted work should be your own.** Any use of AI tools beyond what is explicitly permitted on a given assignment is a violation of Elon's Honor Code.
+:::
+
+For each assignment, I will specify what level of AI use (if any) is appropriate. There are three categories:
+
+| Category | What it means |
+|---|---|
+| **No AI** | The work must be entirely your own. AI use of any kind is not permitted. |
+| **AI as a reference** | You may use AI to clarify concepts or check your understanding, but the writing and analysis must be yours. Any AI use must be disclosed. |
+| **AI-assisted** | You may use AI more actively in your process. Full disclosure of how you used it is required. |
+
+If an assignment does not specify, assume **No AI**.
+
+---
+
+## Why These Guidelines?
+
+Economics is a discipline that rewards careful thinking and the ability to apply abstract concepts to specific situations. AI tools can generate plausible-sounding answers very quickly — but that's not the same as understanding. The assignments in this course are designed to help you build that understanding. Outsourcing the thinking defeats the purpose.
+
+That said, AI tools are real, they're not going away, and knowing how to use them well is genuinely valuable. I'd rather help you develop good habits now than pretend these tools don't exist.
+
+---
+
+## Disclosure
+
+Whenever AI use is permitted, you must include a brief disclosure at the end of your submission. Example:
+
+> *I used [tool name] to [describe how you used it]. The analysis and writing are my own.*
+
+Failure to disclose AI use when it occurred is treated as academic dishonesty, regardless of whether the assignment permitted AI use.
+
+---
+
+## Questions?
+
+If you're ever unsure whether a particular use of AI is appropriate for a given assignment, **ask me before submitting** — not after. I'm happy to talk through specific situations. Reach me at [bsheridan4@elon.edu](mailto:bsheridan4@elon.edu).

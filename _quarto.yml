@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ECO 1000"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Learning Resources"
+        href: resources.qmd
+      - text: "Work to Do"
+        href: work.qmd
+      - text: "Help & Support"
+        href: help.qmd
+      - text: "AI in this Course"
+        href: ai.qmd
+    right:
+      - icon: envelope
+        href: mailto:bsheridan4@elon.edu
+        aria-label: Email
+  page-footer:
+    center: "ECO 1000 · Principles of Economics · Fall 2026 · Elon University"
+    background: "#3d5d63"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.css
+    toc: false
+    smooth-scroll: true

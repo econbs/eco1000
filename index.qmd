@@ -1,0 +1,63 @@
+---
+title: ""
+page-layout: full
+---
+
+```{=html}
+<div class="course-hero">
+  <div class="course-code">Elon University · Fall 2026</div>
+  <h1>ECO 1000: Principles of Economics</h1>
+  <div class="meta-row">
+    <span class="meta-item"><i class="bi bi-person-fill"></i> Prof. Brandon Sheridan</span>
+    <span class="meta-item"><i class="bi bi-geo-alt-fill"></i> KoBC 118</span>
+    <span class="meta-item"><i class="bi bi-envelope-fill"></i>
+      <a href="mailto:bsheridan4@elon.edu">bsheridan4@elon.edu</a>
+    </span>
+  </div>
+</div>
+
+<div class="welcome-strip">
+  <strong>How this course works:</strong>
+  Come to class → engage with the material → complete your assignments → connect economics to the real world.
+  Use the resources below to stay on track all semester.
+</div>
+
+<div class="card-grid">
+
+  <a href="syllabus.html" class="course-card">
+    <div class="card-icon"><i class="bi bi-file-earmark-text-fill"></i></div>
+    <div class="card-title">Course Syllabus</div>
+    <div class="card-desc">Course policies, schedule, grading breakdown, and everything you need to know about ECO 1000.</div>
+    <div class="card-arrow">View syllabus →</div>
+  </a>
+
+  <a href="resources.html" class="course-card">
+    <div class="card-icon"><i class="bi bi-book-fill"></i></div>
+    <div class="card-title">Learning Resources</div>
+    <div class="card-desc">Readings, videos, e-book chapters, and supplemental materials to support your learning.</div>
+    <div class="card-arrow">Explore resources →</div>
+  </a>
+
+  <a href="work.html" class="course-card">
+    <div class="card-icon"><i class="bi bi-check2-square"></i></div>
+    <div class="card-title">Work to Do</div>
+    <div class="card-desc">Assignments, problem sets, and deadlines. Stay on top of what's due and when.</div>
+    <div class="card-arrow">See assignments →</div>
+  </a>
+
+  <a href="help.html" class="course-card">
+    <div class="card-icon"><i class="bi bi-life-preserver"></i></div>
+    <div class="card-title">Help & Support</div>
+    <div class="card-desc">Office hours, tutoring, campus resources, and how to get help when you're stuck.</div>
+    <div class="card-arrow">Get help →</div>
+  </a>
+
+  <a href="ai.html" class="course-card">
+    <div class="card-icon"><i class="bi bi-cpu-fill"></i></div>
+    <div class="card-title">AI in this Course</div>
+    <div class="card-desc">Guidelines for using AI tools responsibly and productively in ECO 1000.</div>
+    <div class="card-arrow">Read policy →</div>
+  </a>
+
+</div>
+```

@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-header">
+  <h1><i class="bi bi-book-fill"></i> Learning Resources</h1>
+  <p>ECO 1000 · Principles of Economics · Fall 2026</p>
+</div>
+```
+
+## E-Book & Core Readings
+
+*[Add your e-book access link and instructions here.]*
+
+The primary textbook for this course is available online. You can access it through:
+
+- **[E-Book Portal]** — *[Add link]*
+- **Elon Library reserves** — *[Add link or instructions]*
+
+---
+
+## Chapter Materials
+
+Each week's readings and supplemental notes will be posted here as the semester progresses.
+
+| Week | Topic | Materials |
+|---|---|---|
+| 1 | Introduction | *[Link to notes/slides]* |
+| 2 | Thinking Like an Economist | *[Link to notes/slides]* |
+| 3 | Supply & Demand | *[Link to notes/slides]* |
+
+---
+
+## Videos & Outside Resources
+
+A few high-quality free resources to supplement your reading:
+
+- **[Marginal Revolution University](https://mru.org)** — Short, engaging economics videos organized by topic.
+- **[Khan Academy Economics](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics)** — Good for review and practice.
+- **[The Economist](https://www.economist.com)** — Real-world applications of course concepts (Elon library provides access).
+
+---
+
+## Lecture Slides
+
+Slides will be posted after each class session.
+
+::: {.callout-note}
+Slides are a supplement to class — not a substitute for attendance. Discussion, examples, and problem-solving happen in real time.
+:::
+
+*[Slides will be linked here as the semester progresses.]*

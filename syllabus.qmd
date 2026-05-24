@@ -1,0 +1,92 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-header">
+  <h1><i class="bi bi-file-earmark-text-fill"></i> Course Syllabus</h1>
+  <p>ECO 1000 · Principles of Economics · Fall 2026</p>
+</div>
+```
+
+## Course Overview
+
+This course introduces students to the fundamental principles of economics. We examine how individuals, firms, and governments make decisions in a world of scarcity, and how those decisions shape markets, prices, and living standards.
+
+**Credits:** 3
+**Meeting times:** *[Add your meeting days/times here]*
+**Location:** *[Add your classroom here]*
+
+---
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Instructor** | Prof. Brandon Sheridan |
+| **Office** | KoBC 118 |
+| **Email** | [bsheridan4@elon.edu](mailto:bsheridan4@elon.edu) |
+| **Office Hours** | *[Add your office hours here]* |
+
+---
+
+## Course Objectives
+
+By the end of this course, students will be able to:
+
+1. Apply the core principles of scarcity, trade-offs, and opportunity cost to real-world decisions.
+2. Analyze supply and demand and explain how markets reach equilibrium.
+3. Evaluate the effects of government policies such as taxes, subsidies, and price controls.
+4. Distinguish between microeconomic and macroeconomic perspectives.
+5. Interpret basic economic data and connect course concepts to current events.
+
+---
+
+## Required Materials
+
+- **Textbook:** *[Add textbook title and edition]*
+- **E-Book / Online Platform:** See the [Learning Resources](resources.qmd) page for access instructions.
+- No additional materials to purchase — all other readings will be provided on this site.
+
+---
+
+## Grading
+
+| Component | Weight |
+|---|---|
+| *[Assignment category 1]* | *[X]%* |
+| *[Assignment category 2]* | *[X]%* |
+| *[Assignment category 3]* | *[X]%* |
+| *[Exams / Quizzes]* | *[X]%* |
+| **Total** | **100%** |
+
+Grading scale: A (93–100), A- (90–92), B+ (87–89), B (83–86), B- (80–82), C+ (77–79), C (73–76), C- (70–72), D (60–69), F (below 60).
+
+---
+
+## Course Policies
+
+### Attendance
+Regular attendance is expected. Economics builds on itself — missing class makes it harder to keep up. Please notify me in advance if you must miss a session.
+
+### Late Work
+*[Add your late work policy here.]*
+
+### Academic Integrity
+All work you submit must be your own. Violations of Elon's Honor Code will be reported. See also the [AI in this Course](ai.qmd) page for guidance on using AI tools.
+
+### Accessibility
+If you have a documented disability and need accommodations, please contact [Disabilities Resources](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/) and reach out to me early in the semester.
+
+---
+
+## Course Schedule
+
+*[Add your week-by-week schedule below, or link to a separate schedule document.]*
+
+| Week | Topic | Readings |
+|---|---|---|
+| 1 | Introduction: What is Economics? | Ch. 1 |
+| 2 | Thinking Like an Economist | Ch. 2 |
+| 3 | Supply and Demand | Ch. 3–4 |
+| … | … | … |

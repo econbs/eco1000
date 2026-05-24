@@ -1,0 +1,207 @@
+/* ── Elon Teal Palette ─────────────────────────────────────── */
+:root {
+  --teal:        #527b82;
+  --teal-dark:   #3d5d63;
+  --teal-light:  #6a9aa2;
+  --teal-pale:   #e8f2f3;
+  --maroon:      #73000a;
+  --gold:        #b59a57;
+  --text:        #1a1a1a;
+  --muted:       #5a6a6c;
+  --border:      #c9dde0;
+  --white:       #ffffff;
+}
+
+/* ── Global ────────────────────────────────────────────────── */
+body {
+  font-family: "Georgia", serif;
+  color: var(--text);
+  background: var(--white);
+}
+
+/* ── Navbar ────────────────────────────────────────────────── */
+.navbar {
+  background-color: var(--teal-dark) !important;
+  border-bottom: 3px solid var(--gold);
+}
+.navbar-brand, .nav-link {
+  color: var(--white) !important;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+.nav-link:hover {
+  color: var(--gold) !important;
+}
+
+/* ── Hero header ───────────────────────────────────────────── */
+.course-hero {
+  background: linear-gradient(135deg, var(--teal-dark) 0%, var(--teal) 100%);
+  color: var(--white);
+  padding: 3rem 2rem 2.5rem;
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 2rem;
+}
+.course-hero .course-code {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  margin-bottom: 0.4rem;
+}
+.course-hero h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  border: none;
+  color: var(--white);
+}
+.course-hero .meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.88rem;
+  opacity: 0.9;
+}
+.course-hero .meta-row a {
+  color: var(--gold);
+  text-decoration: none;
+}
+.course-hero .meta-row a:hover {
+  text-decoration: underline;
+}
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* ── Welcome strip ─────────────────────────────────────────── */
+.welcome-strip {
+  background: var(--teal-pale);
+  border-left: 4px solid var(--teal);
+  border-radius: 6px;
+  padding: 1rem 1.4rem;
+  margin-bottom: 2rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.9rem;
+  color: var(--teal-dark);
+}
+.welcome-strip strong {
+  color: var(--teal-dark);
+}
+
+/* ── Card grid ─────────────────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.course-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(82, 123, 130, 0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  text-decoration: none;
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  animation: fadeUp 0.35s ease both;
+}
+.course-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(82, 123, 130, 0.18);
+  border-color: var(--teal-light);
+  text-decoration: none;
+  color: var(--text);
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.course-card:nth-child(1) { animation-delay: 0.05s; }
+.course-card:nth-child(2) { animation-delay: 0.10s; }
+.course-card:nth-child(3) { animation-delay: 0.15s; }
+.course-card:nth-child(4) { animation-delay: 0.20s; }
+.course-card:nth-child(5) { animation-delay: 0.25s; }
+
+.card-icon {
+  font-size: 1.6rem;
+  color: var(--teal);
+}
+.card-title {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--teal-dark);
+  margin: 0;
+}
+.card-desc {
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.45;
+  margin: 0;
+  flex: 1;
+}
+.card-arrow {
+  font-size: 0.8rem;
+  color: var(--teal-light);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  align-self: flex-end;
+}
+
+/* ── Section pages ─────────────────────────────────────────── */
+.page-header {
+  background: linear-gradient(135deg, var(--teal-dark) 0%, var(--teal) 100%);
+  color: var(--white);
+  padding: 2rem 2rem 1.8rem;
+  border-radius: 0 0 10px 10px;
+  margin-bottom: 2rem;
+}
+.page-header h1 {
+  color: var(--white);
+  border: none;
+  margin: 0;
+  font-size: 1.7rem;
+}
+.page-header p {
+  opacity: 0.85;
+  margin: 0.4rem 0 0;
+  font-size: 0.9rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ── Content helpers ───────────────────────────────────────── */
+h2 {
+  color: var(--teal-dark);
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.3rem;
+}
+h3 { color: var(--teal); }
+a { color: var(--teal); }
+a:hover { color: var(--teal-dark); }
+
+.callout-note {
+  border-left-color: var(--teal) !important;
+}
+.callout-important {
+  border-left-color: var(--maroon) !important;
+}
+
+/* ── Footer ────────────────────────────────────────────────── */
+.nav-footer {
+  color: rgba(255,255,255,0.8) !important;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.82rem;
+}

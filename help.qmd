@@ -1,0 +1,57 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-header">
+  <h1><i class="bi bi-life-preserver"></i> Help & Support</h1>
+  <p>ECO 1000 · Principles of Economics · Fall 2026</p>
+</div>
+```
+
+## Office Hours
+
+The best way to get help is to come talk with me.
+
+| | |
+|---|---|
+| **Location** | KoBC 118 |
+| **Hours** | *[Add your office hours days and times]* |
+| **Email** | [bsheridan4@elon.edu](mailto:bsheridan4@elon.edu) |
+
+If you cannot make my regular office hours, email me and we'll find a time that works.
+
+::: {.callout-note}
+You don't need to have a specific question to come to office hours. Reviewing concepts, talking through your thinking, or just getting a feel for the material are all good reasons to stop by.
+:::
+
+---
+
+## Tutoring & Academic Support
+
+**Elon's Koenigsberger Learning Center (KLC)** offers free tutoring for many courses:
+
+- **Website:** [elon.edu/klc](https://www.elon.edu/u/academics/koenigsberger-learning-center/)
+- **Location:** Belk Library, Lower Level
+- Peer tutors are available — check the KLC website for economics tutoring availability.
+
+---
+
+## Study Tips for Economics
+
+1. **Keep up with the readings.** Economics concepts build on each other — falling behind makes catching up harder.
+2. **Work through practice problems.** Reading about supply and demand is different from solving a problem yourself.
+3. **Connect concepts to the real world.** When you hear something in the news, ask yourself how it relates to what we've covered in class.
+4. **Form a study group.** Explaining concepts to others is one of the best ways to test your own understanding.
+5. **Come to office hours early.** Don't wait until the night before an exam.
+
+---
+
+## Campus Resources
+
+| Resource | Contact |
+|---|---|
+| Koenigsberger Learning Center | [elon.edu/klc](https://www.elon.edu/u/academics/koenigsberger-learning-center/) |
+| Disabilities Resources | [elon.edu/disabilities](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/) |
+| Student Health & Counseling | [elon.edu/wellness](https://www.elon.edu/u/health-wellness/) |
+| Elon Library | [elon.edu/library](https://www.elon.edu/u/library/) |

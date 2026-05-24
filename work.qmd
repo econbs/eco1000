@@ -1,0 +1,51 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-header">
+  <h1><i class="bi bi-check2-square"></i> Work to Do</h1>
+  <p>ECO 1000 · Principles of Economics · Fall 2026</p>
+</div>
+```
+
+## Assignments Overview
+
+All assignments are submitted through *[Moodle / Canvas / your platform]* unless otherwise noted. Due dates are listed below and on the course calendar.
+
+::: {.callout-important}
+Always check the course platform for the most up-to-date deadlines. If there is ever a discrepancy between this page and the platform, the platform is authoritative.
+:::
+
+---
+
+## Assignment Categories
+
+### *[Category 1 — e.g., Problem Sets]*
+*[Describe what these are, how many there are, and how they're graded.]*
+
+### *[Category 2 — e.g., Reading Responses]*
+*[Describe the assignment.]*
+
+### *[Category 3 — e.g., Exams]*
+*[Describe the format, dates, and what material is covered.]*
+
+---
+
+## Deadline Calendar
+
+| Due Date | Assignment | Notes |
+|---|---|---|
+| *[Date]* | *[Assignment name]* | *[Any notes]* |
+| *[Date]* | *[Assignment name]* | *[Any notes]* |
+| *[Date]* | *[Assignment name]* | *[Any notes]* |
+
+---
+
+## Submission Guidelines
+
+- Submit all work as **PDF** unless the assignment asks for something else.
+- Name your files: `LastName_AssignmentName.pdf`
+- Late submissions: *[Refer to syllabus policy.]*
+
+If you have a question about an assignment, please email me at [bsheridan4@elon.edu](mailto:bsheridan4@elon.edu) or come to office hours **before** the deadline.
